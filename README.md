@@ -17,16 +17,15 @@ PromptHelp is an innovative software that aims to enhance user interactions with
 
 ### Prerequisites
 
-- Node.js (version X.X.X)
-- NPM (version X.X.X)
-- MongoDB (version X.X.X)
+- Node.js v16.15.1
+- NPM v8.11.0
 
 ### Installation
 
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/chatprompter.git
+   git clone https://github.com/GodEye00/Prompthelp.git
    ```
 
 2. Install dependencies:
@@ -70,7 +69,7 @@ This project is licensed under the [BTSD](https://opensource.org/licenses/MIT).
 
 ## Contact
 
-For any inquiries or support, please contact us at support@chatprompter.com.
+For any inquiries or support, please contact us at support@Prompthelp.com.
 
 ---
 
